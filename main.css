@@ -1,0 +1,26 @@
+form input{
+    display: flex;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 20%;
+    border: 2px solid #2a728e;
+}
+button {
+    padding: 8px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #2a728e;
+}
+
+.salvar {
+    background-color: #304878;
+    color: #fff;
+}
+
+.cancela:hover {
+    background-color: #686464;
+    color: #fff;
+}
